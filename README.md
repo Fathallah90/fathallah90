@@ -71,7 +71,7 @@ I'm building practical labs and documenting my learning journey through hands-on
 ## 🤝 Connect With Me
 
 - **GitHub:** You're already here!
-- **LinkedIn:** [Add your LinkedIn profile URL](https://www.linkedin.com/in/mohamed-fathallah-365463227/?isSelfProfile=true)
+- **LinkedIn:** [Mohamed Fathallah](https://www.linkedin.com/in/mohamed-fathallah-365463227/?isSelfProfile=true)
 - **Email:** mohamedfathallah1011@gmail.com
 
 ---
